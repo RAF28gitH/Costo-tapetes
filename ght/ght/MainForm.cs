@@ -30,7 +30,7 @@ namespace ght
 		}
 		void BtnDTClick(object sender, EventArgs e)
 		{
-			Calculo form1 = new Calculo();
+			Calculo form1 = new Calculo(); //aquí solo muestro el formulario siguiente y ya
 			form1.Show();
 		}
 	}

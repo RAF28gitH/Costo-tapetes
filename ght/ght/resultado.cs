@@ -17,13 +17,15 @@ namespace ght
 	/// </summary>
 	public partial class resultado : Form
 	{
-		public resultado(ulong res)
+		public resultado(ulong res) //recibe una variable ulong llamada res, la cuál se mostrará como el costo aproximado
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
 			InitializeComponent();
-			label1.Text="$"+res.ToString();
+			
+			label1.Text="$"+res.ToString(); //coloco el gasto aproximado calculado en el formulario anterior
+			
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
