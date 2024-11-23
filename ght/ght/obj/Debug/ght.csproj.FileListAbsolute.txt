@@ -1,0 +1,57 @@
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\bin\Debug\ght.exe
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\bin\Debug\ght.pdb
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\obj\Debug\ght.exe
+C:\Users\CC2_PC16\Documents\SharpDevelop Projects\ght\ght\obj\Debug\ght.pdb
+C:\Users\52445\Downloads\ght\ght\ght\bin\Debug\ght.exe
+C:\Users\52445\Downloads\ght\ght\ght\bin\Debug\ght.pdb
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.exe
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.pdb
+C:\Users\52445\Downloads\ght\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\52445\Downloads\ght - copia\ght\ght\bin\Debug\ght.exe
+C:\Users\52445\Downloads\ght - copia\ght\ght\bin\Debug\ght.pdb
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.exe
+C:\Users\52445\Downloads\ght - copia\ght\ght\obj\Debug\ght.pdb
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\bin\Debug\ght.exe
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\bin\Debug\ght.pdb
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.exe
+C:\Users\52445\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.pdb
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\bin\Debug\ght.exe
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\bin\Debug\ght.pdb
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.exe
+C:\Users\CC1_PC10\Downloads\ght - copia - copia\ght\ght\obj\Debug\ght.pdb
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\bin\Debug\ght.exe
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\bin\Debug\ght.pdb
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.exe
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.pdb
+C:\Users\CC1_PC10\Downloads\ght - copia - copia - copia\ght\ght\obj\Debug\ght.resultado.resources
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.Calculo.resources
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.MainForm.resources
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.resultado.resources
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.csproj.GenerateResource.Cache
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.exe
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\bin\Debug\ght.exe
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\bin\Debug\ght.pdb
+C:\Users\CC1_PC06\Downloads\ghts\ght - copia - copia - copia\ght\ght\obj\Debug\ght.pdb
